@@ -1,0 +1,21 @@
+body {
+    background-color: #B2C8DF;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+#pictures {
+    width: 500px;
+}
+
+
+.btn {
+    background-color: #F8F9D7 ;
+    font-size: 30px;
+    border: none;
+    color: black;
+    font-family: 'Qwitcher Grypen', cursive;
+}
